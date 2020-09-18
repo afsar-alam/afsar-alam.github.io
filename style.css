@@ -230,6 +230,10 @@ color: #fff;
     padding-top: 10px;
      
 }
+.home-socialmedia-icon a{
+    text-decoration: none;
+    color: #fff;
+}
 .text-animate{
     margin-top: 50px;
    
